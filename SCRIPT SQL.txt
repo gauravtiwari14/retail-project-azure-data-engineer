@@ -41,7 +41,6 @@ CREATE TABLE transactions (
     store_id INT,
     quantity INT,
     transaction_date DATE,
-    FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
     FOREIGN KEY (product_id) REFERENCES products(product_id),
     FOREIGN KEY (store_id) REFERENCES stores(store_id)
 );
