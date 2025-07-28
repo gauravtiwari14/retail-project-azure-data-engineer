@@ -35,3 +35,11 @@ To extract, transform, and load retail data (transactions, products, stores, and
 ## 🔁 Data Flow Architecture
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 28, 2025, 08_35_32 AM" src="https://github.com/user-attachments/assets/14a79ac6-a237-407e-8341-39009589b55c" />
+
+---
+
+## Retail Data Power BI
+
+<img width="993" height="555" alt="power bi retail data" src="https://github.com/user-attachments/assets/c0809507-60c9-48f4-802e-a3be0a14e97a" />
+
+
